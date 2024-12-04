@@ -7,7 +7,7 @@ emmm代码很low，就当看乐子了，二改可能有点难，好在可以用�
 基于gradio的demo
 
 ## API中转与配置
-使用 `https://api.001hao.com/pricing`
+使用 `https://api.001hao.com/token`
 拿到api_key放到config。模型可以自己配，保底支持gpt4o，自行探索。
 
 ##环境与启动
