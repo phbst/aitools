@@ -6,4 +6,4 @@
 
 ##如图
 
-![](./屏幕截图 2024-12-04 134836.png)
+![image](https://github.com/user-attachments/assets/e7c52135-7551-483e-ae3a-208ae16bf6f1)
