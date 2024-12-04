@@ -2,7 +2,7 @@
 
 openai/claude太贵了。想用中转了。
 
-emmm代码很low，二改可能有点难，好在可以用。
+emmm代码很low，就当看乐子了，二改可能有点难，好在可以用吧。
 
 基于gradio的demo
 
