@@ -1,0 +1,13 @@
+models:
+  - gpt-4o
+  - o1-preview
+  - gpt-4o-mini
+  - dall-e-3
+  - abc
+
+api_settings:
+  base_url: "https://api.001hao.com/v1/chat/completions"
+  timeout: 30  # 请求超时时间（秒）
+
+API_URL: "https://api.001hao.com/v1/chat/completions"
+YOUR_API_KEY: "sk-xxx"
